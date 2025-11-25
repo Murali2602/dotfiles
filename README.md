@@ -1,7 +1,7 @@
 # Murali's Dotfiles
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Platforms: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)
+![Platforms: Arch](https://img.shields.io/badge/Platform-Arch%20Linux/Hyprland-pink.svg)
 
 Personal configuration files for various tools and applications, organized for easy management with [GNU Stow](https://www.gnu.org/software/stow/).
 
@@ -40,13 +40,4 @@ Configs will be symlinked into your `~/.config` or relevant directories. Only st
 
 Other symlinked configs exist for apps I use daily. Unused apps are excluded to prevent conflicts.
 
-## Notes
 
-*   Intended for Linux (Arch Linux tested).
-*   Hidden files in app folders are included where necessary.
-*   `.git` folders inside configs are ignored by Git.
-*   Only symlink actively used configs.
-
-## Contributing
-
-This is a personal repository, but pull requests are welcome for improvements or fixes.
